@@ -1,1 +1,1 @@
-# void_pkgs_repo
+# dwm_pkgs
